@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "plMWaM63Dehv0DI+r8+/CvTrAgr0masgpHWX2XXTg6T9GOwfxWWMTomacEl16I3u2WKT4CJSB64dBGqZM7rjcQ==",
+  "success": true,
+  "projectFilePath": "D:\\Vishnu\\Projects\\AzureADM\\WebApps\\AzureGitWebApp1\\AzureGitWebApp1\\AzureGitWebApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRIYA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
